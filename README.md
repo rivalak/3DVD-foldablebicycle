@@ -1,0 +1,2 @@
+# 3DVisualDesign-FoldableBicycle
+本科用Solidworks设计的三维可视化便携自行车
